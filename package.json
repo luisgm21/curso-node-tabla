@@ -1,0 +1,15 @@
+{
+  "name": "3-bases-node",
+  "version": "0.0.1",
+  "description": "Es una simple aplicacion que crea un archivo txt con una tabla de multiplicar determinada",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Gonzalo Morelli",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
