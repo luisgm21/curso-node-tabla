@@ -15,6 +15,7 @@ const argv=require('yargs').option('b',{
     alias:'hasta',
     type:'number',
     default: 10,
+    describe: 'Numero hasta el cual queremos tabla'
 })
 .check((argv,options)=>{
     //console.log('yargs', argv)
